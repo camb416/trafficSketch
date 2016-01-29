@@ -122,16 +122,27 @@ void ofApp::update(){
 void ofApp::draw(){
     ofSetColor(0);
 
+    
+    // render larger grey circles
     for(int i=0;i<pts.size();i++){
         
+        float lat = (pts[i].x - avgX)*ofGetWidth()*1.2;
+        float lon = (pts[i].y - avgY)*ofGetWidth()*1.2;
+
+        ofSetColor(212);
+        ofDrawCircle(ofGetWidth()/2+lon, ofGetHeight()/2-lat, 4);
+    }
+    // render black dots
+    for(int i=0;i<pts.size();i++){
+
+        float lat = (pts[i].x - avgX)*ofGetWidth()*1.2;
+        float lon = (pts[i].y - avgY)*ofGetWidth()*1.2;
+   
+        ofSetColor(0);
+        ofDrawCircle(ofGetWidth()/2+lon, ofGetHeight()/2-lat, 1.5);
         
-        float lat = (pts[i].x - avgX)*ofGetWidth();
-        float lon = (pts[i].y - avgY)*ofGetWidth();
         
-        
-        
-        ofDrawCircle(ofGetWidth()/2+lon, ofGetHeight()/2-lat, 2);
-    };
+    }
 
 }
 
