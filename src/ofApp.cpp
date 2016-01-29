@@ -65,6 +65,7 @@ void ofApp::setup(){
             
             ofLog() << lon;
             cameraLocs.push_back(ofPoint(lat, lon));
+            locationNames.push_back(result[i]["name"].asString());
         }
         
         avgX /= result.size();
@@ -89,7 +90,7 @@ void ofApp::setup(){
     }
 
     
-
+    selectedCamera = -1;
     
 
 
@@ -105,11 +106,21 @@ void ofApp::update(){
 void ofApp::draw(){
     ofBackground(212);
     ofSetColor(0);
-
+    
+    if(selectedCamera>-1){
+    ofNoFill();
+    ofSetColor(255,0,0);
+    ofDrawLine(mouseX,mouseY,pts[selectedCamera].x,pts[selectedCamera].y);
+        
+        ofDrawBitmapString(locationNames[selectedCamera],20,20);
+        
+    }
+    
+    ofFill();
     
     // render smaller white circles
     for(int i=0;i<pts.size();i++){
-        ofSetColor(128);
+        i == selectedCamera ? ofSetColor(255,0,0) : ofSetColor(128);
         ofDrawCircle(pts[i].x,pts[i].y, 6);
     }
     
@@ -121,7 +132,7 @@ void ofApp::draw(){
     
     // render black dots
     for(int i=0;i<pts.size();i++){
-        ofSetColor(0);
+        i == selectedCamera ? ofSetColor(255,0,0) : ofSetColor(0);
         ofDrawCircle(pts[i].x,pts[i].y, 1.5f);
     }
 
@@ -140,6 +151,17 @@ void ofApp::keyReleased(int key){
 //--------------------------------------------------------------
 void ofApp::mouseMoved(int x, int y ){
 
+    int nearestID = -1;
+    int nearestDist = 9999;
+    
+    for(int i=0;i<pts.size();i++){
+        float thisDist = ofDist(x,y,pts[i].x,pts[i].y);
+        if(thisDist<nearestDist){
+            nearestID = i;
+            nearestDist = thisDist;
+        }
+    }
+    selectedCamera = nearestID;
 }
 
 //--------------------------------------------------------------

@@ -32,5 +32,10 @@ class ofApp : public ofBaseApp{
     float spread;
     float avgX;
     float avgY;
+    
+    int selectedCamera;
+    
+    string message;
+    vector<string> locationNames;
 		
 };
