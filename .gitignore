@@ -7,8 +7,3 @@
 
 # dont need because there's the json
 bin/data/.gitkeep
-
-# these jsons are holdover from example
-# TODO remove this when that example code is removed
-bin/data/example_output_fast.json
-bin/data/example_output_pretty.json

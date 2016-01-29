@@ -22,7 +22,15 @@ class ofApp : public ofBaseApp{
 		void dragEvent(ofDragInfo dragInfo);
 		void gotMessage(ofMessage msg);
     
-        ofxJSONElement result;
-    vector<ofPoint> pts;
+    ofxJSONElement result; // the json
+    vector<ofPoint> pts; // draw locs
+    vector<ofPoint> cameraLocs; // lat/lon of cameras
+    
+    
+    // for figuring out the mapping
+    // of lat/on to screen
+    float spread;
+    float avgX;
+    float avgY;
 		
 };

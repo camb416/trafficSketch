@@ -1,8 +1,6 @@
 #include "ofApp.h"
 
-float spread;
-float avgX;
-float avgY;
+
 
 //--------------------------------------------------------------
 void ofApp::setup(){
@@ -12,33 +10,9 @@ void ofApp::setup(){
     // Now parse the JSON
     bool parsingSuccessful = result.open(file);
     
-    if (parsingSuccessful)
-    {
-        ofLogNotice("ofApp::setup") << result.getRawString();
-        
-        // now write pretty print
-        if (!result.save("example_output_pretty.json", true))
-        {
-            ofLogNotice("ofApp::setup") << "example_output_pretty.json written unsuccessfully.";
-        }
-        else
-        {
-            ofLogNotice("ofApp::setup") << "example_output_pretty.json written successfully.";
-        }
-        
-        // now write without pretty print
-        if (!result.save("example_output_fast.json", false))
-        {
-            ofLogNotice("ofApp::setup") << "example_output_pretty.json written unsuccessfully.";
-        }
-        else
-        {
-            ofLogNotice("ofApp::setup") << "example_output_pretty.json written successfully.";
-        }
-        
-    }
-    else
-    {
+    if (parsingSuccessful) {
+        ofLogNotice("ofApp::setup") << "JSON loaded successfully";
+    } else  {
         ofLogError("ofApp::setup")  << "Failed to parse JSON" << endl;
     }
     
@@ -90,8 +64,7 @@ void ofApp::setup(){
             avgY += lon;
             
             ofLog() << lon;
-            
-            pts.push_back(ofPoint(lat, lon));
+            cameraLocs.push_back(ofPoint(lat, lon));
         }
         
         avgX /= result.size();
@@ -105,6 +78,16 @@ void ofApp::setup(){
         
         spread = MAX(spreadX, spreadY);
     }
+    
+    for(int i=0;i<cameraLocs.size();i++){
+        
+        float lat = (cameraLocs[i].x - avgX)*ofGetWidth()*1.2;
+        float lon = (cameraLocs[i].y - avgY)*ofGetWidth()*1.2;
+        
+        ofSetColor(212);
+        pts.push_back(ofPoint(ofGetWidth()/2+lon, ofGetHeight()/2-lat));
+    }
+
     
 
     
@@ -120,28 +103,26 @@ void ofApp::update(){
 
 //--------------------------------------------------------------
 void ofApp::draw(){
+    ofBackground(212);
     ofSetColor(0);
 
     
-    // render larger grey circles
+    // render smaller white circles
     for(int i=0;i<pts.size();i++){
-        
-        float lat = (pts[i].x - avgX)*ofGetWidth()*1.2;
-        float lon = (pts[i].y - avgY)*ofGetWidth()*1.2;
-
-        ofSetColor(212);
-        ofDrawCircle(ofGetWidth()/2+lon, ofGetHeight()/2-lat, 4);
+        ofSetColor(128);
+        ofDrawCircle(pts[i].x,pts[i].y, 6);
     }
+    
+    // render smaller white circles
+    for(int i=0;i<pts.size();i++){
+        ofSetColor(255);
+        ofDrawCircle(pts[i].x,pts[i].y, 4);
+    }
+    
     // render black dots
     for(int i=0;i<pts.size();i++){
-
-        float lat = (pts[i].x - avgX)*ofGetWidth()*1.2;
-        float lon = (pts[i].y - avgY)*ofGetWidth()*1.2;
-   
         ofSetColor(0);
-        ofDrawCircle(ofGetWidth()/2+lon, ofGetHeight()/2-lat, 1.5);
-        
-        
+        ofDrawCircle(pts[i].x,pts[i].y, 1.5f);
     }
 
 }
