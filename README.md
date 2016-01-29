@@ -12,5 +12,6 @@ http://dotsignals.org/
 ## Requirements
 - [openframeworks 0.9.0](http://openframeworks.cc)
 - [ofxJSON](https://github.com/jefftimesten/ofxJSON)
+- [ofxThreadedImageLoader (core addon)](http://openframeworks.cc/documentation/ofxThreadedImageLoader/ofxThreadedImageLoader/)
 
 Thanks to [@kuanb](https://gist.github.com/kuanb) for finding or compiling [the JSON](https://gist.github.com/camb416/f5a1b180a980b776d419)
