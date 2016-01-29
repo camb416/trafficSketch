@@ -1,0 +1,1786 @@
+[{
+    "lat": "40.79142677512476",
+    "lng": "-73.93807411193848",
+    "name": "1 Ave @ 110 St",
+    "camera": "http://207.251.86.238/cctv261.jpg"
+}, {
+    "lat": "40.800426144169315",
+    "lng": "-73.93155097961426",
+    "name": "1 Ave @ 124 St",
+    "camera": "http://207.251.86.238/cctv254.jpg"
+}, {
+    "lat": "40.74803725830298",
+    "lng": "-73.9694881439209",
+    "name": "1 Ave @ 42 St",
+    "camera": "http://207.251.86.238/cctv490.jpg"
+}, {
+    "lat": "40.7760243030083",
+    "lng": "-73.9493179321289",
+    "name": "1 Ave @ 86 St",
+    "camera": "http://207.251.86.238/cctv263.jpg"
+}, {
+    "lat": "40.783304",
+    "lng": "-73.944662",
+    "name": "1 Ave @ 96 St",
+    "camera": "http://207.251.86.238/cctv644.jpg"
+}, {
+    "lat": "40.731331",
+    "lng": "-73.982561",
+    "name": "1 Ave @ E 14 St",
+    "camera": "http://207.251.86.238/cctv696.jpg"
+}, {
+    "lat": "40.769126",
+    "lng": "-73.988580",
+    "name": "10 Ave @ 57 St",
+    "camera": "http://207.251.86.238/cctv722.jpg"
+}, {
+    "lat": "40.75492947089871",
+    "lng": "-74.00180339813232",
+    "name": "11 Ave @ 34 ST",
+    "camera": "http://207.251.86.238/cctv200.jpg"
+}, {
+    "lat": "40.75990312387116",
+    "lng": "-73.99815559387207",
+    "name": "11 Ave @ 42 St",
+    "camera": "https://207.251.86.238/cctv31.jpg"
+}, {
+    "lat": "40.770316",
+    "lng": "-73.991381",
+    "name": "11 Ave @ 57 St",
+    "camera": "http://207.251.86.238/cctv721.jpg"
+}, {
+    "lat": "40.74182715312056",
+    "lng": "-74.00879859924316",
+    "name": "12 Ave @ 14 St",
+    "camera": "http://207.251.86.238/cctv489.jpg"
+}, {
+    "lat": "40.74771213629116",
+    "lng": "-74.00789737701416",
+    "name": "12 Ave @ 22 St",
+    "camera": "http://207.251.86.238/cctv488.jpg"
+}, {
+    "lat": "40.761268375278135",
+    "lng": "-74.00090217590332",
+    "name": "12 Ave @ 42 St",
+    "camera": "http://207.251.86.238/cctv485.jpg"
+}, {
+    "lat": "40.77072684694955",
+    "lng": "-73.99420738220215",
+    "name": "12 Ave @ 57 St",
+    "camera": "http://207.251.86.238/cctv484.jpg"
+}, {
+    "lat": "40.80195299186528",
+    "lng": "-73.9333963394165",
+    "name": "2 Ave @ 125 St",
+    "camera": "http://207.251.86.238/cctv102.jpg"
+}, {
+    "lat": "40.737876",
+    "lng": "-73.980926",
+    "name": "2 Ave @ 23 St",
+    "camera": "http://207.251.86.238/cctv699.jpg"
+}, {
+    "lat": "40.745338697450066",
+    "lng": "-73.97489547729492",
+    "name": "2 Ave @ 36 St-Midtown Tunnel",
+    "camera": "http://207.251.86.238/cctv4.jpg"
+}, {
+    "lat": "40.732373",
+    "lng": "-73.984954",
+    "name": "2 Ave @ E 14 St",
+    "camera": "http://207.251.86.238/cctv740.jpg"
+}, {
+    "lat": "40.86283581665962",
+    "lng": "-73.91700267791748",
+    "name": "207 ST @ 9 Ave",
+    "camera": "http://207.251.86.238/cctv203.jpg"
+}, {
+    "lat": "40.737990253855365",
+    "lng": "-73.98296356201172",
+    "name": "3 Ave @ 23 St",
+    "camera": "http://207.251.86.238/cctv430.jpg"
+}, {
+    "lat": "40.74481848035928",
+    "lng": "-73.97798538208008",
+    "name": "3 AVE @ 34 ST",
+    "camera": "http://207.251.86.238/cctv431.jpg"
+}, {
+    "lat": "40.74989042341799",
+    "lng": "-73.97429466247559",
+    "name": "3 Ave @ 42 St",
+    "camera": "http://207.251.86.238/cctv290.jpg"
+}, {
+    "lat": "40.75440932883489",
+    "lng": "-73.97116184234619",
+    "name": "3 Ave @ 49 St",
+    "camera": "http://207.251.86.238/cctv429.jpg"
+}, {
+    "lat": "40.733504",
+    "lng": "-73.987239",
+    "name": "3 Ave @ E 14 St",
+    "camera": "http://207.251.86.238/cctv739.jpg"
+}, {
+    "lat": "40.74068911286629",
+    "lng": "-73.9894437789917",
+    "name": "5 Ave @ 23 St",
+    "camera": "http://207.251.86.238/cctv7.jpg"
+}, {
+    "lat": "40.747549574689174",
+    "lng": "-73.98446559906006",
+    "name": "5 Ave @ 34 St",
+    "camera": "http://207.251.86.238/cctv305.jpg"
+}, {
+    "lat": "40.75710752159198",
+    "lng": "-73.9775562286377",
+    "name": "5 Ave @ 49 St",
+    "camera": "http://207.251.86.238/cctv8.jpg"
+}, {
+    "lat": "40.76217852730423",
+    "lng": "-73.97377967834473",
+    "name": "5 Ave @ 57 St",
+    "camera": "http://207.251.86.238/cctv299.jpg"
+}, {
+    "lat": "40.7715393676332",
+    "lng": "-73.9669132232666",
+    "name": "5 Ave @ 72 St",
+    "camera": "http://207.251.86.238/cctv465.jpg"
+}, {
+    "lat": "40.7364944535093",
+    "lng": "-73.99656772613525",
+    "name": "6 Ave @ 14 St",
+    "camera": "http://207.251.86.238/cctv446.jpg"
+}, {
+    "lat": "40.74208727387333",
+    "lng": "-73.99266242980957",
+    "name": "6 Ave @ 23 St",
+    "camera": "http://207.251.86.238/cctv448.jpg"
+}, {
+    "lat": "40.74881754464601",
+    "lng": "-73.98746967315674",
+    "name": "6 Ave @ 34 St",
+    "camera": "http://207.251.86.238/cctv9.jpg"
+}, {
+    "lat": "40.7584078163464",
+    "lng": "-73.98073196411133",
+    "name": "6 Ave @ 49 St",
+    "camera": "http://207.251.86.238/cctv10.jpg"
+}, {
+    "lat": "40.763446218285964",
+    "lng": "-73.97695541381836",
+    "name": "6 Ave @ 57 St",
+    "camera": "http://207.251.86.238/cctv304.jpg"
+}, {
+    "lat": "40.764291332174466",
+    "lng": "-73.97652626037598",
+    "name": "6 Ave @ 58 St",
+    "camera": "http://207.251.86.238/cctv401.jpg"
+}, {
+    "lat": "40.728348",
+    "lng": "-74.002878",
+    "name": "6 Ave @ West Houston St",
+    "camera": "http://207.251.86.238/cctv666.jpg"
+}, {
+    "lat": "40.74332283355683",
+    "lng": "-73.99545192718506",
+    "name": "7 Ave @ 23St",
+    "camera": "http://207.251.86.238/cctv447.jpg"
+}, {
+    "lat": "40.75015051263462",
+    "lng": "-73.9905595779419",
+    "name": "7 Ave @ 34 St",
+    "camera": "http://207.251.86.238/cctv440.jpg"
+}, {
+    "lat": "40.75964307280483",
+    "lng": "-73.98356437683105",
+    "name": "7 Ave @ 49 St",
+    "camera": "http://207.251.86.238/cctv439.jpg"
+}, {
+    "lat": "40.764746389047964",
+    "lng": "-73.97995948791504",
+    "name": "7 Ave @ 57 St",
+    "camera": "http://207.251.86.238/cctv444.jpg"
+}, {
+    "lat": "40.73896575770038",
+    "lng": "-74.00231838226318",
+    "name": "8 Ave @ 14 St",
+    "camera": "http://207.251.86.238/cctv443.jpg"
+}, {
+    "lat": "40.75135341202851",
+    "lng": "-73.99339199066162",
+    "name": "8 Ave @ 34 St",
+    "camera": "http://207.251.86.238/cctv19.jpg"
+}, {
+    "lat": "40.75629482445485",
+    "lng": "-73.98957252502441",
+    "name": "8 Ave @ 42 St",
+    "camera": "http://207.251.86.238/cctv20.jpg"
+}, {
+    "lat": "40.760813294591514",
+    "lng": "-73.98639678955078",
+    "name": "8 Ave @ 49 St",
+    "camera": "http://207.251.86.238/cctv437.jpg"
+}, {
+    "lat": "40.766969",
+    "lng": "-73.982265",
+    "name": "8 Ave @ Columbus Cr South",
+    "camera": "http://207.251.86.238/cctv18.jpg"
+}, {
+    "lat": "40.744395800976775",
+    "lng": "-73.99811267852783",
+    "name": "8th Ave @ 23 St",
+    "camera": "http://207.251.86.238/cctv441.jpg"
+}, {
+    "lat": "40.745793884066536",
+    "lng": "-74.00120258331299",
+    "name": "9 Ave @ 23 St",
+    "camera": "http://207.251.86.238/cctv355.jpg"
+}, {
+    "lat": "40.75015051263462",
+    "lng": "-73.99789810180664",
+    "name": "9 Ave @ 30 St",
+    "camera": "http://207.251.86.238/cctv354.jpg"
+}, {
+    "lat": "40.75245875985304",
+    "lng": "-73.99613857269287",
+    "name": "9 Ave @ 34 St",
+    "camera": "http://207.251.86.238/cctv352.jpg"
+}, {
+    "lat": "40.75447434681541",
+    "lng": "-73.99463653564453",
+    "name": "9 Ave @ 37 St",
+    "camera": "http://207.251.86.238/cctv353.jpg"
+}, {
+    "lat": "40.757595135105426",
+    "lng": "-73.99244785308838",
+    "name": "9 Ave @ 42 St",
+    "camera": "http://207.251.86.238/cctv351.jpg"
+}, {
+    "lat": "40.76198349577638",
+    "lng": "-73.98922920227051",
+    "name": "9 Ave @ 49 St",
+    "camera": "http://207.251.86.238/cctv350.jpg"
+}, {
+    "lat": "40.767119135122165",
+    "lng": "-73.98549556732178",
+    "name": "9 Ave @ 57 St",
+    "camera": "http://207.251.86.238/cctv349.jpg"
+}, {
+    "lat": "40.850354",
+    "lng": "-73.940604",
+    "name": "Amsterdam @ 178 St",
+    "camera": "http://207.251.86.238/cctv112.jpg"
+}, {
+    "lat": "40.77787668796429",
+    "lng": "-73.98141860961914",
+    "name": "Amsterdam @ 72 St",
+    "camera": "http://207.251.86.238/cctv468.jpg"
+}, {
+    "lat": "40.78687789346236",
+    "lng": "-73.97489547729492",
+    "name": "Amsterdam @ 86 St",
+    "camera": "http://207.251.86.238/cctv469.jpg"
+}, {
+    "lat": "40.813323",
+    "lng": "-73.956265",
+    "name": "Amsterdam Ave @ 125 St",
+    "camera": "http://207.251.86.238/cctv689.jpg"
+}, {
+    "lat": "40.84833",
+    "lng": "-73.930868",
+    "name": "Amsterdam Ave @ 181 St",
+    "camera": "http://207.251.86.238/cctv741.jpg"
+}, {
+    "lat": "40.77020682849771",
+    "lng": "-73.9868688583374",
+    "name": "Amsterdam Ave @ 60 St",
+    "camera": "http://207.251.86.238/cctv455.jpg"
+}, {
+    "lat": "40.68841583861248",
+    "lng": "-73.99025917053223",
+    "name": "Atlantic Ave @ Boerum St",
+    "camera": "http://207.251.86.238/cctv424.jpg"
+}, {
+    "lat": "40.69075876767013",
+    "lng": "-73.9984130859375",
+    "name": "Atlantic Ave @ BQE",
+    "camera": "http://207.251.86.238/cctv425.jpg"
+}, {
+    "lat": "40.71662313269983",
+    "lng": "-73.99918556213379",
+    "name": "Baxter St @ Canal Street",
+    "camera": "http://207.251.86.238/cctv11.jpg"
+}, {
+    "lat": "40.585808",
+    "lng": "-73.823158",
+    "name": "Beach Channel Dr @B 101 St",
+    "camera": "http://207.251.86.238/cctv712.jpg"
+}, {
+    "lat": "40.57757",
+    "lng": "-73.859754",
+    "name": "Beach Channel Dr @B 140 St",
+    "camera": "http://207.251.86.238/cctv711.jpg"
+}, {
+    "lat": "40.605347",
+    "lng": "-73.75518",
+    "name": "Beach Channel Dr @B Mott Ave",
+    "camera": "http://207.251.86.238/cctv715.jpg"
+}, {
+    "lat": "40.666600",
+    "lng": "-73.810400",
+    "name": "Belt Pkwy @ 130 St",
+    "camera": "http://207.251.86.238/cctv159.jpg"
+}, {
+    "lat": "40.667592",
+    "lng": "-73.771721",
+    "name": "Belt Pkwy @ 150th St",
+    "camera": "http://207.251.86.238/cctv551.jpg"
+}, {
+    "lat": "40.639032474561056",
+    "lng": "-74.03562068939209",
+    "name": "Belt Pkwy @ 68 St",
+    "camera": "http://207.251.86.238/cctv114.jpg"
+}, {
+    "lat": "40.60439255008019",
+    "lng": "-74.01698586190183",
+    "name": "Belt Pkwy @ Bay 8th St",
+    "camera": "http://207.251.86.238/cctv461.jpg"
+}, {
+    "lat": "40.66527499112987",
+    "lng": "-73.74040603637695",
+    "name": "Belt Pkwy @ Brookville Blvd",
+    "camera": "http://207.251.86.238/cctv335.jpg"
+}, {
+    "lat": "40.650917771261284",
+    "lng": "-73.86576175689697",
+    "name": "Belt Pkwy @ Erskine",
+    "camera": "http://207.251.86.238/cctv116.jpg"
+}, {
+    "lat": "40.666453",
+    "lng": "-73.841179",
+    "name": "Belt Pkwy@ Cross Bay Blvd",
+    "camera": "http://207.251.86.238/cctv550.jpg"
+}, {
+    "lat": "40.748641",
+    "lng": "-73.895892",
+    "name": "BQE E/B Ent. Ramp @ Broadway",
+    "camera": "http://207.251.86.238/cctv661.jpg"
+}, {
+    "lat": "40.831866",
+    "lng": "-73.830421",
+    "name": "BRE07 NB at Quincy Ave - Ex7B",
+    "camera": "http://207.251.86.238/cctv638.jpg"
+}, {
+    "lat": "40.84085950690562",
+    "lng": "-73.93914699554443",
+    "name": "Broadway @ 169 Street",
+    "camera": "http://207.251.86.238/cctv65.jpg"
+}, {
+    "lat": "40.725389",
+    "lng": "-73.93316",
+    "name": "Brooklyn Queens Expwyat Stewart Avenue",
+    "camera": "http://207.251.86.238/cctv541.jpg"
+}, {
+    "lat": "40.75766",
+    "lng": "-73.90106",
+    "name": "Brooklyn Queens Expy - GCP @ 31st Ave",
+    "camera": "http://207.251.86.238/cctv548.jpg"
+}, {
+    "lat": "40.71407",
+    "lng": "-73.953137",
+    "name": "Brooklyn Queens Expy @  Metropolitan Ave",
+    "camera": "http://207.251.86.238/cctv538.jpg"
+}, {
+    "lat": "40.757806",
+    "lng": "-73.899837",
+    "name": "Brooklyn Queens Expy @ 31st Ave",
+    "camera": "http://207.251.86.238/cctv547.jpg"
+}, {
+    "lat": "40.701366",
+    "lng": "-73.98865",
+    "name": "Brooklyn Queens Expy @ Adams St",
+    "camera": "http://207.251.86.238/cctv530.jpg"
+}, {
+    "lat": "40.691605",
+    "lng": "-73.999207",
+    "name": "Brooklyn Queens Expy @ Atlantic Ave",
+    "camera": "http://207.251.86.238/cctv524.jpg"
+}, {
+    "lat": "40.708182",
+    "lng": "-73.957279",
+    "name": "Brooklyn Queens Expy @ Broadway St",
+    "camera": "http://207.251.86.238/cctv536.jpg"
+}, {
+    "lat": "40.689685",
+    "lng": "-73.998735",
+    "name": "Brooklyn Queens Expy @ Congress St",
+    "camera": "http://207.251.86.238/cctv523.jpg"
+}, {
+    "lat": "40.695705",
+    "lng": "-73.998327",
+    "name": "Brooklyn Queens Expy @ Furman St LL",
+    "camera": "http://207.251.86.238/cctv527.jpg"
+}, {
+    "lat": "40.698308",
+    "lng": "-73.997083",
+    "name": "Brooklyn Queens Expy @ Furman St UL",
+    "camera": "http://207.251.86.238/cctv526.jpg"
+}, {
+    "lat": "40.680264",
+    "lng": "-74.003627",
+    "name": "Brooklyn Queens Expy @ Hamilton Ave",
+    "camera": "http://207.251.86.238/cctv517.jpg"
+}, {
+    "lat": "40.69925119494625",
+    "lng": "-73.96137714385986",
+    "name": "Brooklyn Queens Expy @ Kent Ave",
+    "camera": "http://207.251.86.238/cctv532.jpg"
+}, {
+    "lat": "40.704977",
+    "lng": "-73.959124",
+    "name": "Brooklyn Queens Expy @ Lee Ave",
+    "camera": "http://207.251.86.238/cctv535.jpg"
+}, {
+    "lat": "40.718672",
+    "lng": "-73.946786",
+    "name": "Brooklyn Queens Expy @ Manhattan Ave",
+    "camera": "http://207.251.86.238/cctv539.jpg"
+}, {
+    "lat": "40.700943",
+    "lng": "-73.994701",
+    "name": "Brooklyn Queens Expy @ Middagh St LL",
+    "camera": "http://207.251.86.238/cctv529.jpg"
+}, {
+    "lat": "40.684901",
+    "lng": "-74.000988",
+    "name": "Brooklyn Queens Expy @ Sackett St",
+    "camera": "http://207.251.86.238/cctv521.jpg"
+}, {
+    "lat": "40.699934",
+    "lng": "-73.984766",
+    "name": "Brooklyn Queens Expy @ Sands St",
+    "camera": "http://207.251.86.238/cctv531.jpg"
+}, {
+    "lat": "40.708849",
+    "lng": "-73.956785",
+    "name": "Brooklyn Queens Expy @ South 5th St",
+    "camera": "http://207.251.86.238/cctv537.jpg"
+}, {
+    "lat": "40.692369",
+    "lng": "-73.999486",
+    "name": "Brooklyn Queens Expy @ State St UL",
+    "camera": "http://207.251.86.238/cctv525.jpg"
+}, {
+    "lat": "40.684397",
+    "lng": "-74.001245",
+    "name": "Brooklyn Queens Expy @ Union St",
+    "camera": "http://207.251.86.238/cctv519.jpg"
+}, {
+    "lat": "40.698129",
+    "lng": "-73.962429",
+    "name": "Brooklyn Queens Expy @ Wythe Ave",
+    "camera": "http://207.251.86.238/cctv533.jpg"
+}, {
+    "lat": "40.807681",
+    "lng": "-73.929512",
+    "name": "Bruckner Blvd @ Lincoln Ave",
+    "camera": "http://207.251.86.238/cctv678.jpg"
+}, {
+    "lat": "40.6997717683002",
+    "lng": "-73.9894437789917",
+    "name": "Cadman Plz E @ Prospect St",
+    "camera": "http://207.251.86.238/cctv318.jpg"
+}, {
+    "lat": "40.714411227628915",
+    "lng": "-73.99223327636719",
+    "name": "Canal Street @ Allen Street",
+    "camera": "http://207.251.86.238/cctv325.jpg"
+}, {
+    "lat": "40.715191908398225",
+    "lng": "-73.9945936203003",
+    "name": "Canal Street @ Chrystie Street",
+    "camera": "http://207.251.86.238/cctv324.jpg"
+}, {
+    "lat": "40.75772516477161",
+    "lng": "-73.77679824829102",
+    "name": "Clearview @ Northern Blvd",
+    "camera": "http://207.251.86.238/cctv144.jpg"
+}, {
+    "lat": "40.77543932860701",
+    "lng": "-73.7841796875",
+    "name": "Clearview Expy @ 26th Ave",
+    "camera": "http://207.251.86.238/cctv339.jpg"
+}, {
+    "lat": "40.76653408231532",
+    "lng": "-73.78096103668213",
+    "name": "Clearview Expy @ 35 St",
+    "camera": "http://207.251.86.238/cctv340.jpg"
+}, {
+    "lat": "40.758092",
+    "lng": "-73.834234",
+    "name": "College Point Blvd @ Roosevelt Ave",
+    "camera": "http://207.251.86.238/cctv767.jpg"
+}, {
+    "lat": "40.75467",
+    "lng": "-73.833092",
+    "name": "College Point Blvd @ Sanford Ave",
+    "camera": "http://207.251.86.238/cctv768.jpg"
+}, {
+    "lat": "40.61998",
+    "lng": "-73.8257",
+    "name": "Cross Bay Blvd @  Wildlife Refuge",
+    "camera": "http://207.251.86.238/cctv657.jpg"
+}, {
+    "lat": "40.598884",
+    "lng": "-73.820711",
+    "name": "Cross Bay Blvd @ 20 Rd",
+    "camera": "http://207.251.86.238/cctv648.jpg"
+}, {
+    "lat": "40.588759",
+    "lng": "-73.819342",
+    "name": "Cross Bay Blvd @ North Channel Bridge",
+    "camera": "http://207.251.86.238/cctv651.jpg"
+}, {
+    "lat": "40.68638",
+    "lng": "-73.8446",
+    "name": "Cross Bay Blvd @ Rockaway Blvd",
+    "camera": "http://207.251.86.238/cctv656.jpg"
+}, {
+    "lat": "40.779278",
+    "lng": "-73.768564",
+    "name": "Cross Island Pkwy @ Bayside Marina",
+    "camera": "http://207.251.86.238/cctv178.jpg"
+}, {
+    "lat": "40.740168859407845",
+    "lng": "-73.72650146484375",
+    "name": "Cross Island Pkwy @ Union Tpke",
+    "camera": "http://207.251.86.238/cctv143.jpg"
+}, {
+    "lat": "40.741934",
+    "lng": "-73.770174",
+    "name": "CVE02 NB at 64th Ave",
+    "camera": "http://207.251.86.238/cctv552.jpg"
+}, {
+    "lat": "40.748147",
+    "lng": "-73.773658",
+    "name": "CVE03 SB at 56th Ave",
+    "camera": "http://207.251.86.238/cctv553.jpg"
+}, {
+    "lat": "40.752691",
+    "lng": "-73.775804",
+    "name": "CVE04 SB at 48th Ave",
+    "camera": "http://207.251.86.238/cctv554.jpg"
+}, {
+    "lat": "40.819285",
+    "lng": "-73.930094",
+    "name": "E 149 St @ River Ave",
+    "camera": "http://207.251.86.238/cctv706.jpg"
+}, {
+    "lat": "40.75844032338939",
+    "lng": "-73.96493911743164",
+    "name": "E 57 St @ QBB",
+    "camera": "http://207.251.86.238/cctv15.jpg"
+}, {
+    "lat": "40.761918485139915",
+    "lng": "-73.96137714385986",
+    "name": "E 63 St @ QBB",
+    "camera": "http://207.251.86.238/cctv16.jpg"
+}, {
+    "lat": "40.714010",
+    "lng": "-73.990214",
+    "name": "East Broadway @ Essex St",
+    "camera": "http://207.251.86.238/cctv716.jpg"
+}, {
+    "lat": "40.719876",
+    "lng": "-73.978731",
+    "name": "East Houston St @ Ave D",
+    "camera": "http://207.251.86.238/cctv698.jpg"
+}, {
+    "lat": "40.809314",
+    "lng": "-73.929538",
+    "name": "Exterior St @ 3 Ave",
+    "camera": "http://207.251.86.238/cctv718.jpg"
+}, {
+    "lat": "40.813690",
+    "lng": "-73.931416",
+    "name": "Exterior St @ E 138 St",
+    "camera": "http://207.251.86.238/cctv717.jpg"
+}, {
+    "lat": "40.661198",
+    "lng": "-73.770991",
+    "name": "Farmers Blvd @ 147 Ave @ 175 St",
+    "camera": "http://207.251.86.238/cctv723.jpg"
+}, {
+    "lat": "40.667436",
+    "lng": "-73.766763",
+    "name": "Farmers Blvd @ N Conduit Ave",
+    "camera": "http://207.251.86.238/cctv729.jpg"
+}, {
+    "lat": "40.796969",
+    "lng": "-73.929317",
+    "name": "FDR @ 120 St",
+    "camera": "http://207.251.86.238/cctv702.jpg"
+}, {
+    "lat": "40.791666",
+    "lng": "-73.935403",
+    "name": "FDR Dr @ 111 ST",
+    "camera": "http://207.251.86.238/cctv166.jpg"
+}, {
+    "lat": "40.81095093393647",
+    "lng": "-73.93438339233398",
+    "name": "FDR Dr @ 135 Street",
+    "camera": "http://207.251.86.238/cctv27.jpg"
+}, {
+    "lat": "40.8273844579717",
+    "lng": "-73.93421173095703",
+    "name": "FDR Dr @ 155 Street",
+    "camera": "http://207.251.86.238/cctv442.jpg"
+}, {
+    "lat": "40.744441",
+    "lng": "-73.971242",
+    "name": "FDR Dr @ 38 St",
+    "camera": "http://207.251.86.238/cctv640.jpg"
+}, {
+    "lat": "40.766599",
+    "lng": "-73.950845",
+    "name": "FDR Dr @ 73 St",
+    "camera": "http://207.251.86.238/cctv643.jpg"
+}, {
+    "lat": "40.770256",
+    "lng": "-73.947626",
+    "name": "FDR Dr @ 79 St",
+    "camera": "http://207.251.86.238/cctv642.jpg"
+}, {
+    "lat": "40.777422",
+    "lng": "-73.942713",
+    "name": "FDR Dr @ 90 St",
+    "camera": "http://207.251.86.238/cctv641.jpg"
+}, {
+    "lat": "40.78210123234386",
+    "lng": "-73.94369602203369",
+    "name": "FDR Dr @ 96 Street",
+    "camera": "http://207.251.86.238/cctv25.jpg"
+}, {
+    "lat": "40.707807603285545",
+    "lng": "-73.99867057800293",
+    "name": "FDR Dr @ Brooklyn Bridge Exit NB",
+    "camera": "http://207.251.86.238/cctv327.jpg"
+}, {
+    "lat": "40.70725456069107",
+    "lng": "-74.00004386901855",
+    "name": "FDR Dr @ Brooklyn Bridge Exit SB",
+    "camera": "http://207.251.86.238/cctv326.jpg"
+}, {
+    "lat": "40.70826304667949",
+    "lng": "-73.99725437164307",
+    "name": "FDR Dr @ Catherine Street",
+    "camera": "http://207.251.86.238/cctv22.jpg"
+}, {
+    "lat": "40.70315539593832",
+    "lng": "-74.0070390701294",
+    "name": "FDR Dr @ Old Slip",
+    "camera": "http://207.251.86.238/cctv64.jpg"
+}, {
+    "lat": "40.609864",
+    "lng": "-73.922379",
+    "name": "Flatbush Ave @ Ave U",
+    "camera": "http://207.251.86.238/cctv769.jpg"
+}, {
+    "lat": "40.590200",
+    "lng": "-73.900803",
+    "name": "Flatbush Ave @ Aviator Sports & Golf Club",
+    "camera": "http://207.251.86.238/cctv738.jpg"
+}, {
+    "lat": "40.614704",
+    "lng": "-73.928063",
+    "name": "Flatbush Ave @ Fillmore Ave",
+    "camera": "http://207.251.86.238/cctv737.jpg"
+}, {
+    "lat": "40.622374",
+    "lng": "-73.936664",
+    "name": "Flatbush Ave @ Kings Hwy",
+    "camera": "http://207.251.86.238/cctv770.jpg"
+}, {
+    "lat": "40.601134",
+    "lng": "-73.913036",
+    "name": "Flatbush Ave @ Marine Park",
+    "camera": "http://207.251.86.238/cctv771.jpg"
+}, {
+    "lat": "40.69121432764301",
+    "lng": "-73.98223400115967",
+    "name": "Flatbush Ave @ Willoughby",
+    "camera": "http://207.251.86.238/cctv330.jpg"
+}, {
+    "lat": "40.68389245087982",
+    "lng": "-73.97794246673584",
+    "name": "Flatbush Ave and 4 Ave",
+    "camera": "http://207.251.86.238/cctv420.jpg"
+}, {
+    "lat": "40.683209034670796",
+    "lng": "-73.9769983291626",
+    "name": "Flatbush Ave and Atlantic Ave",
+    "camera": "http://207.251.86.238/cctv421.jpg"
+}, {
+    "lat": "40.67930366476232",
+    "lng": "-73.97455215454102",
+    "name": "Flatbush Ave@ 6 Ave",
+    "camera": "http://207.251.86.238/cctv426.jpg"
+}, {
+    "lat": "40.85754528867217",
+    "lng": "-73.88408660888672",
+    "name": "Fordham Rd @ Hughes Ave",
+    "camera": "http://207.251.86.238/cctv202.jpg"
+}, {
+    "lat": "40.86179721873436",
+    "lng": "-73.89670372009277",
+    "name": "Fordham Rd and Grand Concourse",
+    "camera": "http://207.251.86.238/cctv201.jpg"
+}, {
+    "lat": "40.848657",
+    "lng": "-73.939207",
+    "name": "Ft Washington @ 178 St",
+    "camera": "http://207.251.86.238/cctv732.jpg"
+}, {
+    "lat": "40.849349",
+    "lng": "-73.938940",
+    "name": "Ft Washinton @ 179 St",
+    "camera": "http://207.251.86.238/cctv733.jpg"
+}, {
+    "lat": "40.716879",
+    "lng": "-73.800069",
+    "name": "GCP @ 166 St",
+    "camera": "http://207.251.86.238/cctv127.jpg"
+}, {
+    "lat": "40.72693354386121",
+    "lng": "-73.75370979309082",
+    "name": "GCP @ 214 St",
+    "camera": "http://207.251.86.238/cctv128.jpg"
+}, {
+    "lat": "40.77010932458492",
+    "lng": "-73.9171314239502",
+    "name": "GCP @ 31 ST",
+    "camera": "http://207.251.86.238/cctv108.jpg"
+}, {
+    "lat": "40.767003136241364",
+    "lng": "-73.90119144603271",
+    "name": "GCP @ Astoria Blvd @ 49 St",
+    "camera": "http://207.251.86.238/cctv106.jpg"
+}, {
+    "lat": "40.772124",
+    "lng": "-73.876215",
+    "name": "GCP @ LGA 94 St Exit",
+    "camera": "http://207.251.86.238/cctv662.jpg"
+}, {
+    "lat": "40.760521",
+    "lng": "-73.857694",
+    "name": "GCP07 EB at Ditmars Blvd - Ex9",
+    "camera": "http://207.251.86.238/cctv608.jpg"
+}, {
+    "lat": "40.752036129031076",
+    "lng": "-73.85181427001953",
+    "name": "GCP08 EB at Roosevelt Ave - Ex9",
+    "camera": "http://207.251.86.238/cctv609.jpg"
+}, {
+    "lat": "40.6669025988096",
+    "lng": "-73.99570941925049",
+    "name": "Gowanus Expy @ Prospect Interchange",
+    "camera": "http://207.251.86.238/cctv510.jpg"
+}, {
+    "lat": "40.66673983982907",
+    "lng": "-73.77096176147461",
+    "name": "GR Brewer @ Belt",
+    "camera": "http://207.251.86.238/cctv163.jpg"
+}, {
+    "lat": "40.672744",
+    "lng": "-73.968781",
+    "name": "Grand Army Plaza",
+    "camera": "http://207.251.86.238/cctv98.jpg"
+}, {
+    "lat": "40.769492",
+    "lng": "-73.912797",
+    "name": "Grand Central Pkwy @ 37 Street",
+    "camera": "http://207.251.86.238/cctv603.jpg"
+}, {
+    "lat": "40.768029",
+    "lng": "-73.905244",
+    "name": "Grand Central Pkwy @ 46 street",
+    "camera": "http://207.251.86.238/cctv604.jpg"
+}, {
+    "lat": "40.767022",
+    "lng": "-73.896918",
+    "name": "Grand Central Pkwy @ 72 Street",
+    "camera": "http://207.251.86.238/cctv605.jpg"
+}, {
+    "lat": "40.766372",
+    "lng": "-73.8937",
+    "name": "Grand Central Pkwy @ 75 Street",
+    "camera": "http://207.251.86.238/cctv606.jpg"
+}, {
+    "lat": "40.758115",
+    "lng": "-73.852715",
+    "name": "Grand Central Pkwy E/Connector @ 126 St",
+    "camera": "http://207.251.86.238/cctv611.jpg"
+}, {
+    "lat": "40.826849",
+    "lng": "-73.922609",
+    "name": "Grand Concourse @ 161 St",
+    "camera": "http://207.251.86.238/cctv708.jpg"
+}, {
+    "lat": "40.818570",
+    "lng": "-73.927322",
+    "name": "Grand Concourse @ E 149 St",
+    "camera": "http://207.251.86.238/cctv719.jpg"
+}, {
+    "lat": "40.71655807771725",
+    "lng": "-73.99094581604004",
+    "name": "Grand St @ Allen St",
+    "camera": "http://207.251.86.238/cctv459.jpg"
+}, {
+    "lat": "40.718427",
+    "lng": "-73.994830",
+    "name": "Grand St @ Bowery",
+    "camera": "http://207.251.86.238/cctv734.jpg"
+}, {
+    "lat": "40.667978",
+    "lng": "-73.771617",
+    "name": "Guy Brewer Blvd @ N Conduit Ave",
+    "camera": "http://207.251.86.238/cctv726.jpg"
+}, {
+    "lat": "40.669201",
+    "lng": "-73.996650",
+    "name": "Hamilton Ave @ Hamilton Pl @ 15 St (N SR)",
+    "camera": "http://207.251.86.238/cctv763.jpg"
+}, {
+    "lat": "40.669085",
+    "lng": "-73.997168",
+    "name": "Hamilton Ave @ Hamilton PL @ 15 St (S SR)",
+    "camera": "http://207.251.86.238/cctv764.jpg"
+}, {
+    "lat": "40.836133",
+    "lng": "-73.934883",
+    "name": "Harlem Rvr Dr (FDR) @ 166 St",
+    "camera": "http://207.251.86.238/cctv705.jpg"
+}, {
+    "lat": "40.82199367154931",
+    "lng": "-73.95725727081299",
+    "name": "Henry Hudson @ 137 St",
+    "camera": "http://207.251.86.238/cctv500.jpg"
+}, {
+    "lat": "40.835891916032764",
+    "lng": "-73.94871711730957",
+    "name": "Henry Hudson @ 158 St",
+    "camera": "http://207.251.86.238/cctv495.jpg"
+}, {
+    "lat": "40.795617968801466",
+    "lng": "-73.97618293762207",
+    "name": "Henry Hudson Pkwy @ 96 St",
+    "camera": "http://207.251.86.238/cctv188.jpg"
+}, {
+    "lat": "40.736207",
+    "lng": "-73.713777",
+    "name": "Hillside Ave @ Little Neck Pkwy",
+    "camera": "http://207.251.86.238/cctv695.jpg"
+}, {
+    "lat": "40.725925",
+    "lng": "-74.009506",
+    "name": "Holland Tunnel",
+    "camera": "http://207.251.86.238/cctv92.jpg"
+}, {
+    "lat": "40.724348",
+    "lng": "-73.992623",
+    "name": "Houston St @ Bowery St",
+    "camera": "http://207.251.86.238/cctv669.jpg"
+}, {
+    "lat": "40.724006",
+    "lng": "-73.990992",
+    "name": "Houston St @ Christies St",
+    "camera": "http://207.251.86.238/cctv670.jpg"
+}, {
+    "lat": "40.507726",
+    "lng": "-74.230003",
+    "name": "Hylan Ave @ Page Ave",
+    "camera": "http://207.251.86.238/cctv756.jpg"
+}, {
+    "lat": "40.529434",
+    "lng": "-74.161351",
+    "name": "Hylan Blvd @ Arden Ave",
+    "camera": "http://207.251.86.238/cctv755.jpg"
+}, {
+    "lat": "40.560385",
+    "lng": "-74.120024",
+    "name": "Hylan Blvd @ Guyon Ave",
+    "camera": "http://207.251.86.238/cctv753.jpg"
+}, {
+    "lat": "40.577965",
+    "lng": "-74.102264",
+    "name": "Hylan Blvd @ Midland Ave",
+    "camera": "http://207.251.86.238/cctv758.jpg"
+}, {
+    "lat": "40.570469",
+    "lng": "-74.109749",
+    "name": "Hylan Blvd @ New Dorp Lane",
+    "camera": "http://207.251.86.238/cctv247.jpg"
+}, {
+    "lat": "40.534229",
+    "lng": "-74.153896",
+    "name": "Hylan Blvd @ Richmond Ave",
+    "camera": "http://207.251.86.238/cctv752.jpg"
+}, {
+    "lat": "40.585929",
+    "lng": "-74.092579",
+    "name": "Hylan Blvd @ Seaview Ave",
+    "camera": "http://207.251.86.238/cctv704.jpg"
+}, {
+    "lat": "40.586632",
+    "lng": "-74.091912",
+    "name": "Hylan Blvd @ Seaview Ave",
+    "camera": "http://207.251.86.238/cctv744.jpg"
+}, {
+    "lat": "40.519122",
+    "lng": "-74.197091",
+    "name": "Hylan Blvd @ Seguine Ave",
+    "camera": "http://207.251.86.238/cctv757.jpg"
+}, {
+    "lat": "40.598942",
+    "lng": "-74.072231",
+    "name": "Hylan Blvd @ West Fingerboard Rd & Sand Ln",
+    "camera": "http://207.251.86.238/cctv772.jpg"
+}, {
+    "lat": "40.525674",
+    "lng": "-74.230371",
+    "name": "Korean War Veterans Pkwy @ Tyrellan Ave",
+    "camera": "http://207.251.86.238/cctv615.jpg"
+}, {
+    "lat": "40.528267",
+    "lng": "-74.216659",
+    "name": "Korean War Vetrans Pkwy @ Bloomingdale Rd",
+    "camera": "http://207.251.86.238/cctv616.jpg"
+}, {
+    "lat": "40.807980",
+    "lng": "-73.945472",
+    "name": "Lenox Ave @ 125 St",
+    "camera": "http://207.251.86.238/cctv472.jpg"
+}, {
+    "lat": "40.76971930750302",
+    "lng": "-73.96202087402344",
+    "name": "Lexington Ave @ 72 St",
+    "camera": "http://207.251.86.238/cctv181.jpg"
+}, {
+    "lat": "40.738943",
+    "lng": "-73.815047",
+    "name": "LIE @ Kissena Blvd",
+    "camera": "http://207.251.86.238/cctv129.jpg"
+}, {
+    "lat": "40.760716",
+    "lng": "-73.73183",
+    "name": "LIE @ Marathon Pkwy",
+    "camera": "http://207.251.86.238/cctv130.jpg"
+}, {
+    "lat": "40.738661",
+    "lng": "-73.805945",
+    "name": "Long Island Expy @ 163rd St",
+    "camera": "http://207.251.86.238/cctv570.jpg"
+}, {
+    "lat": "40.738072",
+    "lng": "-73.797433",
+    "name": "Long Island Expy @ 172nd St",
+    "camera": "http://207.251.86.238/cctv571.jpg"
+}, {
+    "lat": "40.739972",
+    "lng": "-73.790251",
+    "name": "Long Island Expy @ 185th St",
+    "camera": "http://207.251.86.238/cctv572.jpg"
+}, {
+    "lat": "40.739737",
+    "lng": "-73.941864",
+    "name": "Long Island Expy @ 27th St",
+    "camera": "http://207.251.86.238/cctv555.jpg"
+}, {
+    "lat": "40.732396",
+    "lng": "-73.919523",
+    "name": "Long Island Expy @ 48th St LL",
+    "camera": "http://207.251.86.238/cctv560.jpg"
+}, {
+    "lat": "40.729904",
+    "lng": "-73.911293",
+    "name": "Long Island Expy @ 58th St LL",
+    "camera": "http://207.251.86.238/cctv562.jpg"
+}, {
+    "lat": "40.728409",
+    "lng": "-73.886147",
+    "name": "Long Island Expy @ 75 St",
+    "camera": "http://207.251.86.238/cctv564.jpg"
+}, {
+    "lat": "40.729801",
+    "lng": "-73.877454",
+    "name": "Long Island Expy @ 84 St",
+    "camera": "http://207.251.86.238/cctv565.jpg"
+}, {
+    "lat": "40.735932",
+    "lng": "-73.858634",
+    "name": "Long Island Expy @ 99 St",
+    "camera": "http://207.251.86.238/cctv566.jpg"
+}, {
+    "lat": "40.743389",
+    "lng": "-73.774497",
+    "name": "Long Island Expy @ Francis Lewis Blvd",
+    "camera": "http://207.251.86.238/cctv574.jpg"
+}, {
+    "lat": "40.725338",
+    "lng": "-73.896916",
+    "name": "Long Island Expy @ Grand Avenue",
+    "camera": "http://207.251.86.238/cctv563.jpg"
+}, {
+    "lat": "40.740093",
+    "lng": "-73.844963",
+    "name": "Long Island Expy @ Grand Central Pkwy",
+    "camera": "http://207.251.86.238/cctv567.jpg"
+}, {
+    "lat": "40.736478",
+    "lng": "-73.928855",
+    "name": "Long Island Expy @ Greenpoint Ave",
+    "camera": "http://207.251.86.238/cctv556.jpg"
+}, {
+    "lat": "40.738723",
+    "lng": "-73.814768",
+    "name": "Long Island Expy @ Kissena Blvd",
+    "camera": "http://207.251.86.238/cctv569.jpg"
+}, {
+    "lat": "40.743441",
+    "lng": "-73.83333",
+    "name": "Long Island Expy @ Lawrence St",
+    "camera": "http://207.251.86.238/cctv568.jpg"
+}, {
+    "lat": "40.733938",
+    "lng": "-73.921289",
+    "name": "Long Island Expy @ ramp to W/B BQE",
+    "camera": "http://207.251.86.238/cctv558.jpg"
+}, {
+    "lat": "40.742773",
+    "lng": "-73.780607",
+    "name": "Long Island Expy @ Underhill Ave",
+    "camera": "http://207.251.86.238/cctv573.jpg"
+}, {
+    "lat": "40.730618",
+    "lng": "-73.914372",
+    "name": "Long Island Expy btwn 50 St - 58th St",
+    "camera": "http://207.251.86.238/cctv561.jpg"
+}, {
+    "lat": "40.735242",
+    "lng": "-73.923918",
+    "name": "Long Island Expy ramp to W/B BQE",
+    "camera": "http://207.251.86.238/cctv557.jpg"
+}, {
+    "lat": "40.828115",
+    "lng": "-73.931447",
+    "name": "Macombs Dam Bridge",
+    "camera": "http://207.251.86.238/cctv191.jpg"
+}, {
+    "lat": "40.829275",
+    "lng": "-73.928693",
+    "name": "Macombs Dam Bridge @ E 161 St",
+    "camera": "http://207.251.86.238/cctv707.jpg"
+}, {
+    "lat": "40.809443",
+    "lng": "-73.929361",
+    "name": "Major Deegan @ Triboro Bridge",
+    "camera": "http://207.251.86.238/cctv111.jpg"
+}, {
+    "lat": "40.849942",
+    "lng": "-73.923109",
+    "name": "Major Deegan Expy @ N of Alex Hamilton Bridge",
+    "camera": "http://207.251.86.238/cctv42.jpg"
+}, {
+    "lat": "40.849349",
+    "lng": "-73.923697",
+    "name": "MDE10 NB at W.175th St - Ex7 CBX",
+    "camera": "http://207.251.86.238/cctv639.jpg"
+}, {
+    "lat": "40.710705",
+    "lng": "-73.992304",
+    "name": "MHB -19 Manh N URDW @ Anch",
+    "camera": "http://207.251.86.238/cctv385.jpg"
+}, {
+    "lat": "40.702878",
+    "lng": "-73.988450",
+    "name": "MHB â€“ 32 Bklyn S URDW @ Anch",
+    "camera": "http://207.251.86.238/cctv398.jpg"
+}, {
+    "lat": "40.712980",
+    "lng": "-73.993783",
+    "name": "MHB-16 Manh Colonade Entr",
+    "camera": "http://207.251.86.238/cctv382.jpg"
+}, {
+    "lat": "40.716139",
+    "lng": "-73.996063",
+    "name": "MHB-16 Manhattan Colonade Entr",
+    "camera": "http://207.251.86.238/cctv371.jpg"
+}, {
+    "lat": "40.715131",
+    "lng": "-73.995022",
+    "name": "MHB-16A Manh East of Colonnade Entr",
+    "camera": "http://207.251.86.238/cctv762.jpg"
+}, {
+    "lat": "40.712361",
+    "lng": "-73.993504",
+    "name": "MHB-17 Manh LRW @ X OVER",
+    "camera": "http://207.251.86.238/cctv383.jpg"
+}, {
+    "lat": "40.716139",
+    "lng": "-73.996063",
+    "name": "MHB-18 Manh LRW @ EOF X Over",
+    "camera": "http://207.251.86.238/cctv384.jpg"
+}, {
+    "lat": "40.708881",
+    "lng": "-73.991336",
+    "name": "MHB-21 Manh N URDWY @ Arch",
+    "camera": "http://207.251.86.238/cctv387.jpg"
+}, {
+    "lat": "40.708834",
+    "lng": "-73.991433",
+    "name": "MHB-22 Manh N URDWY @ Twr",
+    "camera": "http://207.251.86.238/cctv388.jpg"
+}, {
+    "lat": "40.708814",
+    "lng": "-73.991511",
+    "name": "MHB-23 Manh LRDWY @ Twr",
+    "camera": "http://207.251.86.238/cctv389.jpg"
+}, {
+    "lat": "40.708773",
+    "lng": "-73.991612",
+    "name": "MHB-24 Manh S URDWY @ Twr",
+    "camera": "http://207.251.86.238/cctv390.jpg"
+}, {
+    "lat": "40.705020",
+    "lng": "-73.989161",
+    "name": "MHB-26 BKLYN N UPRDW @ TWR - Bikeway",
+    "camera": "http://207.251.86.238/cctv392.jpg"
+}, {
+    "lat": "40.705112",
+    "lng": "-73.989272",
+    "name": "MHB-27 Bklyn N URDWY @ Twr",
+    "camera": "http://207.251.86.238/cctv393.jpg"
+}, {
+    "lat": "40.705069",
+    "lng": "-73.989401",
+    "name": "MHB-28 Bklyn LRDW @ Twr",
+    "camera": "http://207.251.86.238/cctv394.jpg"
+}, {
+    "lat": "40.705039",
+    "lng": "-73.989502",
+    "name": "MHB-29 Brklyn S URDWY @ Twr",
+    "camera": "http://207.251.86.238/cctv395.jpg"
+}, {
+    "lat": "40.705035",
+    "lng": "-73.989580",
+    "name": "MHB-30 @ BRK S URW @ TWR Walk Way",
+    "camera": "http://207.251.86.238/cctv396.jpg"
+}, {
+    "lat": "40.698177499555555",
+    "lng": "-73.9865255355835",
+    "name": "MHB-33 Bklyn LRW @ Ex Ramp",
+    "camera": "http://207.251.86.238/cctv399.jpg"
+}, {
+    "lat": "40.624898",
+    "lng": "-74.146235",
+    "name": "MLK Jr. Expwy @ Forest Ave.",
+    "camera": "http://207.251.86.238/cctv613.jpg"
+}, {
+    "lat": "40.630956",
+    "lng": "-74.145741",
+    "name": "MLK Jr. Expwy @ Walker Street",
+    "camera": "http://207.251.86.238/cctv614.jpg"
+}, {
+    "lat": "40.617552",
+    "lng": "-74.15205",
+    "name": "MLK Jr. Expwy @ Watchogue Rd",
+    "camera": "http://207.251.86.238/cctv612.jpg"
+}, {
+    "lat": "40.710689",
+    "lng": "-73.984656",
+    "name": "Montgomergy @ South St",
+    "camera": "http://207.251.86.238/cctv338.jpg"
+}, {
+    "lat": "40.883900",
+    "lng": "-73.825900",
+    "name": "NE Thruway @ Conner St",
+    "camera": "http://207.251.86.238/cctv172.jpg"
+}, {
+    "lat": "40.868476",
+    "lng": "-73.832667",
+    "name": "New Eng Thru @ Bartow",
+    "camera": "http://207.251.86.238/cctv122.jpg"
+}, {
+    "lat": "40.757824",
+    "lng": "-73.861028",
+    "name": "Northern Blvd @ 108 St",
+    "camera": "http://207.251.86.238/cctv742.jpg"
+}, {
+    "lat": "40.758271",
+    "lng": "-73.855567",
+    "name": "Northern Blvd @ 114 St",
+    "camera": "http://207.251.86.238/cctv743.jpg"
+}, {
+    "lat": "40.752967",
+    "lng": "-73.910238",
+    "name": "Northern Blvd @ 51 St",
+    "camera": "http://207.251.86.238/cctv773.jpg"
+}, {
+    "lat": "40.75366161748887",
+    "lng": "-73.89859199523926",
+    "name": "Northern Blvd @ 68 St",
+    "camera": "http://207.251.86.238/cctv187.jpg"
+}, {
+    "lat": "40.756392348635885",
+    "lng": "-73.87185573577881",
+    "name": "Northern Blvd @ 97 St",
+    "camera": "http://207.251.86.238/cctv289.jpg"
+}, {
+    "lat": "40.752004",
+    "lng": "-73.931943",
+    "name": "Northern Blvd @ Honeywell Bridge",
+    "camera": "http://207.251.86.238/cctv686.jpg"
+}, {
+    "lat": "40.770649",
+    "lng": "-73.735503",
+    "name": "Northern Blvd @ Little Neck Pkwy",
+    "camera": "http://207.251.86.238/cctv694.jpg"
+}, {
+    "lat": "40.764641",
+    "lng": "-73.82347",
+    "name": "Northern Blvd @ Parsons Blvd",
+    "camera": "http://207.251.86.238/cctv774.jpg"
+}, {
+    "lat": "40.763955",
+    "lng": "-73.828126",
+    "name": "Northern Blvd @ Union St",
+    "camera": "http://207.251.86.238/cctv775.jpg"
+}, {
+    "lat": "40.626558",
+    "lng": "-73.970924",
+    "name": "Ocean Pkwy @ Ave I",
+    "camera": "http://207.251.86.238/cctv672.jpg"
+}, {
+    "lat": "40.59785",
+    "lng": "-73.9655",
+    "name": "Ocean Pkwy @ Ave U",
+    "camera": "http://207.251.86.238/cctv658.jpg"
+}, {
+    "lat": "40.644933",
+    "lng": "-73.974359",
+    "name": "Ocean Pkwy @ Church Ave",
+    "camera": "http://207.251.86.238/cctv700.jpg"
+}, {
+    "lat": "40.636159",
+    "lng": "-73.972751",
+    "name": "Ocean Pkwy @ Ditmas Ave",
+    "camera": "http://207.251.86.238/cctv673.jpg"
+}, {
+    "lat": "40.605697",
+    "lng": "-73.966819",
+    "name": "Ocean Pkwy @ Kings Hwy",
+    "camera": "http://207.251.86.238/cctv747.jpg"
+}, {
+    "lat": "40.575219",
+    "lng": "-73.968764",
+    "name": "Ocean Pkwy @ Surf Av @ Sea Breeze Ave",
+    "camera": "http://207.251.86.238/cctv745.jpg"
+}, {
+    "lat": "40.525714",
+    "lng": "-74.230356",
+    "name": "Outerbridge Crossing @ Tyrellan Ave",
+    "camera": "http://207.251.86.238/cctv95.jpg"
+}, {
+    "lat": "40.855609",
+    "lng": "-73.869347",
+    "name": "Pelham Pkwy E/B @ Boston Rd",
+    "camera": "http://207.251.86.238/cctv776.jpg"
+}, {
+    "lat": "40.857212",
+    "lng": "-73.868891",
+    "name": "Pelham Pkwy W/B @ Boston Rd",
+    "camera": "http://207.251.86.238/cctv777.jpg"
+}, {
+    "lat": "40.864552",
+    "lng": "-73.813781",
+    "name": "Pelham Shore Rd @ City Island Rd",
+    "camera": "http://207.251.86.238/cctv778.jpg"
+}, {
+    "lat": "40.662427",
+    "lng": "-73.988693",
+    "name": "Prospect Expy @ 6 Ave",
+    "camera": "http://207.251.86.238/cctv516.jpg"
+}, {
+    "lat": "40.660376",
+    "lng": "-73.987234",
+    "name": "Prospect Expy @ 7 Ave",
+    "camera": "http://207.251.86.238/cctv515.jpg"
+}, {
+    "lat": "40.657429",
+    "lng": "-73.983135",
+    "name": "Prospect Expy @ 9 Ave",
+    "camera": "http://207.251.86.238/cctv514.jpg"
+}, {
+    "lat": "40.647792",
+    "lng": "-73.974938",
+    "name": "Prospect Expy @ Caton Ave",
+    "camera": "http://207.251.86.238/cctv511.jpg"
+}, {
+    "lat": "40.666593",
+    "lng": "-73.994958",
+    "name": "Prospect Pkwy @ 3 Ave",
+    "camera": "http://207.251.86.238/cctv649.jpg"
+}, {
+    "lat": "40.75873288606094",
+    "lng": "-73.96008968353271",
+    "name": "QBB NOR @ York Ave",
+    "camera": "http://207.251.86.238/cctv407.jpg"
+}, {
+    "lat": "40.7508982634657",
+    "lng": "-73.94210815429688",
+    "name": "QBB Uramp @ 23 St",
+    "camera": "http://207.251.86.238/cctv417.jpg"
+}, {
+    "lat": "40.72797425371559",
+    "lng": "-73.85765075683594",
+    "name": "Qns Blvd @ 65 Ave",
+    "camera": "http://207.251.86.238/cctv146.jpg"
+}, {
+    "lat": "40.741495",
+    "lng": "-73.898293",
+    "name": "Qns Blvd @ 65 PL",
+    "camera": "http://207.251.86.238/cctv148.jpg"
+}, {
+    "lat": "40.73356779034111",
+    "lng": "-73.86932373046875",
+    "name": "Qns Blvd @ QnCnt Mall",
+    "camera": "http://207.251.86.238/cctv145.jpg"
+}, {
+    "lat": "40.744152",
+    "lng": "-73.926136",
+    "name": "Queens Blvd @ 39 ST",
+    "camera": "http://207.251.86.238/cctv765.jpg"
+}, {
+    "lat": "40.7489478",
+    "lng": "-73.9373769",
+    "name": "Queens Blvd @ Jackson Ave",
+    "camera": "http://207.251.86.238/cctv675.jpg"
+}, {
+    "lat": "40.7460324",
+    "lng": "-73.9344491",
+    "name": "Queens Blvd @ Skillman",
+    "camera": "http://207.251.86.238/cctv677.jpg"
+}, {
+    "lat": "40.743034",
+    "lng": "-73.934624",
+    "name": "Queens Blvd @ Van Dam",
+    "camera": "http://207.251.86.238/cctv56.jpg"
+}, {
+    "lat": "40.747615",
+    "lng": "-73.936121",
+    "name": "Queens Blvd Mid Span of QBB",
+    "camera": "http://207.251.86.238/cctv436.jpg"
+}, {
+    "lat": "40.750323",
+    "lng": "-73.938321",
+    "name": "Queens Plaza N @ Northern Blvd",
+    "camera": "http://207.251.86.238/cctv685.jpg"
+}, {
+    "lat": "40.74937024193277",
+    "lng": "-73.93863201141357",
+    "name": "Queens Plaza North @ 2811 (Westside)",
+    "camera": "http://207.251.86.238/cctv54.jpg"
+}, {
+    "lat": "40.7501753",
+    "lng": "-73.9398494",
+    "name": "Queens Plz S @ 27 St",
+    "camera": "http://207.251.86.238/cctv676.jpg"
+}, {
+    "lat": "40.672635",
+    "lng": "-73.785637",
+    "name": "Rockaway Blvd @ Baisley Blvd",
+    "camera": "http://207.251.86.238/cctv727.jpg"
+}, {
+    "lat": "40.640648",
+    "lng": "-73.743377",
+    "name": "Rockaway Blvd @ Brookville Blvd",
+    "camera": "http://207.251.86.238/cctv731.jpg"
+}, {
+    "lat": "40.63702097456225",
+    "lng": "-73.74043371586913",
+    "name": "Rockaway Blvd @ Division St",
+    "camera": "http://207.251.86.238/cctv663.jpg"
+}, {
+    "lat": "40.659656",
+    "lng": "-73.773968",
+    "name": "Rockaway Blvd @ Farmers Blvd",
+    "camera": "http://207.251.86.238/cctv736.jpg"
+}, {
+    "lat": "40.656274",
+    "lng": "-73.767364",
+    "name": "Rockaway Blvd @ Guy Brewer Blvd",
+    "camera": "http://207.251.86.238/cctv730.jpg"
+}, {
+    "lat": "40.666800",
+    "lng": "-73.779833",
+    "name": "Rockaway Blvd @ S. Conduit Ave",
+    "camera": "http://207.251.86.238/cctv735.jpg"
+}, {
+    "lat": "40.674354",
+    "lng": "-73.801268",
+    "name": "Rockaway Blvd @ Van Wyck Expy E S/R",
+    "camera": "http://207.251.86.238/cctv725.jpg"
+}, {
+    "lat": "40.674459",
+    "lng": "-73.802180",
+    "name": "Rockaway Blvd @ Van Wyck Expy W S/R",
+    "camera": "http://207.251.86.238/cctv724.jpg"
+}, {
+    "lat": "40.761617",
+    "lng": "-73.822077",
+    "name": "Roosevelt Ave @ Parsons Blvd",
+    "camera": "http://207.251.86.238/cctv780.jpg"
+}, {
+    "lat": "40.719648119182985",
+    "lng": "-74.01206016540527",
+    "name": "RT. 9A @ N. Moore St",
+    "camera": "http://207.251.86.238/cctv320.jpg"
+}, {
+    "lat": "40.69918612299095",
+    "lng": "-73.98476600646973",
+    "name": "Sands St @ BQE Ent",
+    "camera": "http://207.251.86.238/cctv315.jpg"
+}, {
+    "lat": "40.609361",
+    "lng": "-74.091434",
+    "name": "SIE @ Clove Rd",
+    "camera": "http://207.251.86.238/cctv96.jpg"
+}, {
+    "lat": "40.614885",
+    "lng": "-74.157435",
+    "name": "SIE @ Richmond Ave",
+    "camera": "http://207.251.86.238/cctv83.jpg"
+}, {
+    "lat": "40.701797",
+    "lng": "-74.011144",
+    "name": "South St @ Broad St",
+    "camera": "http://207.251.86.238/cctv210.jpg"
+}, {
+    "lat": "40.7092715173956",
+    "lng": "-73.99154663085938",
+    "name": "South Street @ Pike Street",
+    "camera": "http://207.251.86.238/cctv328.jpg"
+}, {
+    "lat": "40.718516",
+    "lng": "-73.735207",
+    "name": "Springfield Ave @ Jamaica Ave",
+    "camera": "http://207.251.86.238/cctv692.jpg"
+}, {
+    "lat": "40.680209",
+    "lng": "-73.753356",
+    "name": "Springfield Blvd @ Merrick Blvd",
+    "camera": "http://207.251.86.238/cctv691.jpg"
+}, {
+    "lat": "40.60817",
+    "lng": "-74.132073",
+    "name": "Staten Island Expwy @ Bradley Ave",
+    "camera": "http://207.251.86.238/cctv633.jpg"
+}, {
+    "lat": "40.625093",
+    "lng": "-74.177713",
+    "name": "Staten Island Expwy @ Forest Ave",
+    "camera": "http://207.251.86.238/cctv627.jpg"
+}, {
+    "lat": "40.615044",
+    "lng": "-74.15735",
+    "name": "Staten Island Expwy @ Richmond Ave",
+    "camera": "http://207.251.86.238/cctv630.jpg"
+}, {
+    "lat": "40.612242",
+    "lng": "-74.153767",
+    "name": "Staten Island Expwy @ SIE/MLK Interchange",
+    "camera": "http://207.251.86.238/cctv631.jpg"
+}, {
+    "lat": "40.609522",
+    "lng": "-74.150183",
+    "name": "Staten Island Expwy @ Victory Blvd.",
+    "camera": "http://207.251.86.238/cctv632.jpg"
+}, {
+    "lat": "40.621249",
+    "lng": "-74.168873",
+    "name": "Staten Island Expwy @ W of South Ave",
+    "camera": "http://207.251.86.238/cctv628.jpg"
+}, {
+    "lat": "40.579195",
+    "lng": "-73.981856",
+    "name": "Stillwell Ave @ Neptune Ave",
+    "camera": "http://207.251.86.238/cctv751.jpg"
+}, {
+    "lat": "40.575565",
+    "lng": "-73.981202",
+    "name": "Stillwell Ave @ Surf Ave",
+    "camera": "http://207.251.86.238/cctv750.jpg"
+}, {
+    "lat": "40.7572700598272",
+    "lng": "-73.9599609375",
+    "name": "Sutton Pl @ 58 St",
+    "camera": "http://207.251.86.238/cctv402.jpg"
+}, {
+    "lat": "40.807061",
+    "lng": "-73.933681",
+    "name": "Third Ave Bridge",
+    "camera": "http://207.251.86.238/cctv720.jpg"
+}, {
+    "lat": "40.743982",
+    "lng": "-73.717583",
+    "name": "Union tpke @ Little Neck Pkwy",
+    "camera": "http://207.251.86.238/cctv693.jpg"
+}, {
+    "lat": "40.693773",
+    "lng": "-73.81193",
+    "name": "Van Wyck Expwy @ 101  Ave SB",
+    "camera": "http://207.251.86.238/cctv590.jpg"
+}, {
+    "lat": "40.693968",
+    "lng": "-73.811431",
+    "name": "Van Wyck Expwy @ 101 Ave NB",
+    "camera": "http://207.251.86.238/cctv589.jpg"
+}, {
+    "lat": "40.687341",
+    "lng": "-73.807777",
+    "name": "Van Wyck Expwy @ 109 Ave",
+    "camera": "http://207.251.86.238/cctv588.jpg"
+}, {
+    "lat": "40.684474",
+    "lng": "-73.806756",
+    "name": "Van Wyck Expwy @ 111 Ave",
+    "camera": "http://207.251.86.238/cctv587.jpg"
+}, {
+    "lat": "40.669369",
+    "lng": "-73.80159",
+    "name": "Van Wyck Expwy @ 133 Ave SB",
+    "camera": "http://207.251.86.238/cctv581.jpg"
+}, {
+    "lat": "40.699832",
+    "lng": "-73.814823",
+    "name": "Van Wyck Expwy @ 91 Ave",
+    "camera": "http://207.251.86.238/cctv592.jpg"
+}, {
+    "lat": "40.673467",
+    "lng": "-73.801589",
+    "name": "Van Wyck Expwy @ Alwick Rd SB",
+    "camera": "http://207.251.86.238/cctv582.jpg"
+}, {
+    "lat": "40.697027",
+    "lng": "-73.813767",
+    "name": "Van Wyck Expwy @ Atlantic Ave",
+    "camera": "http://207.251.86.238/cctv591.jpg"
+}, {
+    "lat": "40.677796",
+    "lng": "-73.80354",
+    "name": "Van Wyck Expwy @ Foch Blvd. SB",
+    "camera": "http://207.251.86.238/cctv585.jpg"
+}, {
+    "lat": "40.703875",
+    "lng": "-73.8167",
+    "name": "Van Wyck Expwy @ Hillside Ave",
+    "camera": "http://207.251.86.238/cctv593.jpg"
+}, {
+    "lat": "40.713339",
+    "lng": "-73.824376",
+    "name": "Van Wyck Expwy @ Jackie Robinson Pkwy",
+    "camera": "http://207.251.86.238/cctv596.jpg"
+}, {
+    "lat": "40.711483",
+    "lng": "-73.821954",
+    "name": "Van Wyck Expwy @ Queens Blvd.(entrance ramp)",
+    "camera": "http://207.251.86.238/cctv595.jpg"
+}, {
+    "lat": "40.674623",
+    "lng": "-73.801507",
+    "name": "Van Wyck Expwy @ Rockaway Blvd.",
+    "camera": "http://207.251.86.238/cctv583.jpg"
+}, {
+    "lat": "40.680149",
+    "lng": "-73.804696",
+    "name": "Van Wyck Expwy Btwn 115 Ave. & 116 Ave",
+    "camera": "http://207.251.86.238/cctv586.jpg"
+}, {
+    "lat": "40.666235",
+    "lng": "-73.801711",
+    "name": "Van Wyck Expy @ S Conduit Ave LL",
+    "camera": "http://207.251.86.238/cctv281.jpg"
+}, {
+    "lat": "40.637748",
+    "lng": "-74.076018",
+    "name": "Victory Blvd @ Bay St",
+    "camera": "http://207.251.86.238/cctv171.jpg"
+}, {
+    "lat": "40.608768",
+    "lng": "-74.153616",
+    "name": "Victory Blvd WOF Campus Dr",
+    "camera": "http://207.251.86.238/cctv232.jpg"
+}, {
+    "lat": "40.706327",
+    "lng": "-73.818254",
+    "name": "VWE01 SB at 134th St - Ex19",
+    "camera": "http://207.251.86.238/cctv579.jpg"
+}, {
+    "lat": "40.6776",
+    "lng": "-73.802945",
+    "name": "VWE08 NB at Foch Blvd - Ex2",
+    "camera": "http://207.251.86.238/cctv584.jpg"
+}, {
+    "lat": "40.70605086387406",
+    "lng": "-74.00485038757324",
+    "name": "Water St @ John St",
+    "camera": "http://207.251.86.238/cctv213.jpg"
+}, {
+    "lat": "40.70442421198891",
+    "lng": "-74.00721073150635",
+    "name": "Water St @ Wall St",
+    "camera": "http://207.251.86.238/cctv212.jpg"
+}, {
+    "lat": "40.70962935817221",
+    "lng": "-73.95974636077881",
+    "name": "WBB-1 @ Bklyn Plaza",
+    "camera": "http://207.251.86.238/cctv356.jpg"
+}, {
+    "lat": "40.71174383259811",
+    "lng": "-73.96734237670898",
+    "name": "WBB-14 @ NIR Bklyn Kent Ave",
+    "camera": "http://207.251.86.238/cctv369.jpg"
+}, {
+    "lat": "40.71268719183457",
+    "lng": "-73.9720630645752",
+    "name": "WBB-18 @ SOR Cntr Span",
+    "camera": "http://207.251.86.238/cctv374.jpg"
+}, {
+    "lat": "40.711125762403164",
+    "lng": "-73.96644115447998",
+    "name": "WBB-19 @ Bklyn Tower",
+    "camera": "http://207.251.86.238/cctv373.jpg"
+}, {
+    "lat": "40.71070286896417",
+    "lng": "-73.96317958831787",
+    "name": "WBB-2 @ NOR Bklyn-Driggs",
+    "camera": "http://207.251.86.1.238/cctv357"
+}, {
+    "lat": "40.71005225842896",
+    "lng": "-73.9630937576294",
+    "name": "WBB-20 @ MidSpan",
+    "camera": "http://207.251.86.238/cctv375.jpg"
+}, {
+    "lat": "40.71294742651323",
+    "lng": "-73.97171974182129",
+    "name": "WBB-4 @ NOR Bklyn-Mid Span",
+    "camera": "http://207.251.86.238/cctv359.jpg"
+}, {
+    "lat": "40.71724115186372",
+    "lng": "-73.98553848266602",
+    "name": "WBB-6 @ Delancy-Clinton",
+    "camera": "http://207.251.86.238/cctv361.jpg"
+}, {
+    "lat": "40.728739",
+    "lng": "-74.007137",
+    "name": "West Houston @ Hudson St",
+    "camera": "http://207.251.86.238/cctv665.jpg"
+}, {
+    "lat": "40.609685",
+    "lng": "-74.181833",
+    "name": "West Shore Expwy @ Edward Curry Ave",
+    "camera": "http://207.251.86.238/cctv626.jpg"
+}, {
+    "lat": "40.532279",
+    "lng": "-74.223976",
+    "name": "West Shore Expwy @ Englewood Ave",
+    "camera": "http://207.251.86.238/cctv617.jpg"
+}, {
+    "lat": "40.577635",
+    "lng": "-74.19121",
+    "name": "West Shore Expwy @ Fresh Kills Creek",
+    "camera": "http://207.251.86.238/cctv622.jpg"
+}, {
+    "lat": "40.597303",
+    "lng": "-74.191232",
+    "name": "West Shore Expwy @ Meredith Blvd.",
+    "camera": "http://207.251.86.238/cctv624.jpg"
+}, {
+    "lat": "40.566177",
+    "lng": "-74.193635",
+    "name": "West Shore Expwy @ Victory Blvd",
+    "camera": "http://207.251.86.238/cctv623.jpg"
+}, {
+    "lat": "40.541363",
+    "lng": "-74.224019",
+    "name": "West Shore Expwy @ Woodrow Rd",
+    "camera": "http://207.251.86.238/cctv618.jpg"
+}, {
+    "lat": "40.5597539508553",
+    "lng": "-74.19938564300537",
+    "name": "West Shore Expy @ Arden Ave",
+    "camera": "http://207.251.86.238/cctv347.jpg"
+}, {
+    "lat": "40.590118",
+    "lng": "-74.193442",
+    "name": "West Shore Expy @ Victory Blvd",
+    "camera": "http://207.251.86.238/cctv653.jpg"
+}, {
+    "lat": "40.714443756177076",
+    "lng": "-74.01326179504394",
+    "name": "West St @ Murray",
+    "camera": "http://207.251.86.238/cctv71.jpg"
+}, {
+    "lat": "40.76009816150324",
+    "lng": "-74.00218963623047",
+    "name": "West Street @ Intrepid",
+    "camera": "http://207.251.86.238/cctv90.jpg"
+}, {
+    "lat": "40.786576",
+    "lng": "-73.824043",
+    "name": "Whitestone Expwy @ 14 Ave (Median)",
+    "camera": "http://207.251.86.238/cctv602.jpg"
+}, {
+    "lat": "40.776191",
+    "lng": "-73.828214",
+    "name": "Whitestone Expwy @ 25 Rd (Median)",
+    "camera": "http://207.251.86.238/cctv601.jpg"
+}, {
+    "lat": "40.720287",
+    "lng": "-73.865571",
+    "name": "Woodhaven Blvd @ Furmanville Ave",
+    "camera": "http://207.251.86.238/cctv703.jpg"
+}, {
+    "lat": "40.694",
+    "lng": "-73.852",
+    "name": "Woodhaven Blvd @ Jamaica Ave",
+    "camera": "http://207.251.86.238/cctv659.jpg"
+}, {
+    "lat": "40.702613",
+    "lng": "-73.855269",
+    "name": "Woodhaven Blvd @ Myrtle Ave",
+    "camera": "http://207.251.86.238/cctv701.jpg"
+}, {
+    "lat": "40.71437869906487",
+    "lng": "-74.00197505950928",
+    "name": "Worth St @ Centre St",
+    "camera": "http://207.251.86.238/cctv217.jpg"
+}, {
+    "lat": "40.71691587933472",
+    "lng": "-74.00755405426025",
+    "name": "Worth Street @ W. Broadway",
+    "camera": "http://207.251.86.238/cctv321.jpg"
+}, {
+    "lat": "40.560632",
+    "lng": "-74.199602",
+    "name": "WSE @ Arden Ave",
+    "camera": "http://207.251.86.238/cctv84.jpg"
+}, {
+    "lat": "40.54857",
+    "lng": "-74.220693",
+    "name": "WSE03 SB at Bloomingdale Rd-Ex3",
+    "camera": "http://207.251.86.238/cctv619.jpg"
+}, {
+    "lat": "40.554765",
+    "lng": "-74.213161",
+    "name": "WSE04 SB at Rossville Ave - Ex4",
+    "camera": "http://207.251.86.238/cctv620.jpg"
+}]
