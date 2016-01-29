@@ -66,6 +66,7 @@ void ofApp::setup(){
             ofLog() << lon;
             cameraLocs.push_back(ofPoint(lat, lon));
             locationNames.push_back(result[i]["name"].asString());
+            urls.push_back(result[i]["camera"].asString());
         }
         
         avgX /= result.size();
@@ -92,6 +93,7 @@ void ofApp::setup(){
     
     selectedCamera = -1;
     
+    
 
 
 
@@ -105,15 +107,20 @@ void ofApp::update(){
 //--------------------------------------------------------------
 void ofApp::draw(){
     ofBackground(212);
+
+
+    
     ofSetColor(0);
     
     if(selectedCamera>-1){
-    ofNoFill();
-    ofSetColor(255,0,0);
-    ofDrawLine(mouseX,mouseY,pts[selectedCamera].x,pts[selectedCamera].y);
-        
+        ofSetColor(255);
+        if(cameraImg.isAllocated()) cameraImg.draw(20,30);
+        ofNoFill();
+        ofSetColor(255,0,0);
+        ofDrawLine(mouseX,mouseY,pts[selectedCamera].x,pts[selectedCamera].y);
         ofDrawBitmapString(locationNames[selectedCamera],20,20);
         
+        //ofDrawBitmapString(urls[selectedCamera],20,40);
     }
     
     ofFill();
@@ -171,7 +178,7 @@ void ofApp::mouseDragged(int x, int y, int button){
 
 //--------------------------------------------------------------
 void ofApp::mousePressed(int x, int y, int button){
-
+    if(selectedCamera > -1) loader.loadFromURL(cameraImg, urls[selectedCamera]);
 }
 
 //--------------------------------------------------------------

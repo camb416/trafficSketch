@@ -2,6 +2,7 @@
 
 #include "ofMain.h"
 #include "ofxJSON.h"
+#include "ofxThreadedImageLoader.h"
 
 class ofApp : public ofBaseApp{
 
@@ -37,5 +38,9 @@ class ofApp : public ofBaseApp{
     
     string message;
     vector<string> locationNames;
+    vector<string> urls;
+    
+    ofImage cameraImg;
+    		ofxThreadedImageLoader loader;
 		
 };
